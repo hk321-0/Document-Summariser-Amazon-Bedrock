@@ -1,0 +1,1 @@
+I wrote a blog detailing the problem statement, architecture, implementation, result and key learnings. Link: https://builder.aws.com/content/36HJAOqePLxisn2fjzkmwPj6KFP/document-summariser-or-amazon-bedrock
